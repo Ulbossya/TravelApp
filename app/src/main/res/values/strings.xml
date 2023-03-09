@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_almaty">Алматы — крупнейший город страны, который на протяжении почти 70 лет был столицей Казахстана. Сегодня Алматы называют «южной столицей», ведь по интенсивности экономической, общественной и культурной жизни — это действительно столичный город.
+
+Алматы располагается в предгорьях Заилийского Алатау, поэтому практически из любой точки города в ясную погоду можно увидеть горные вершины, опоясывающие Алматы с юга. С географическим положением связано и то, что город расположен на наклонной поверхности, поэтому в числе ориентиров, используемых алматинцами, понятия «вниз» и «вверх» —  самые распространенные.</string>
+</resources>
